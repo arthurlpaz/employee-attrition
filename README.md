@@ -49,7 +49,7 @@ This dataset offers a comprehensive and varied analysis of an organization's emp
 #### Analysis
 - Pandas
 - Numpy
-- Pyplot (express, graphic_objects, subplots)
+- Plotly (express, graphic_objects, subplots)
 - Matplolib
 - Seaborn
 
